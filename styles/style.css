@@ -44,4 +44,38 @@ font-family: 'Work Sans', sans-serif;
 
 }
 /* end banner section */
-  
+   
+
+
+   
+  .failure{
+    display: flex;
+    align-items: center;
+    margin: 150px;
+    border-radius: 5px;
+    background-color: #FFF; 
+  }
+  .failure-picture{
+    width: 451px;
+height: 898px;
+    
+  }
+  .failure-preview{
+    padding: 200px;
+  }
+  .failure-header{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+
+  }
+  .failure-description{
+    font-size: 16px;
+    color:#444343 ;
+    margin-bottom: 15px;
+  }
+  ul li{
+    list-style:decimal;
+  }
+  /* end failure section */
+  /* start my plan section */
